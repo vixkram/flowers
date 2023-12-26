@@ -10,4 +10,4 @@ E-Flower is a delightful website where you can send virtual flowers to your love
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vixkram/e-flower.git
+   git clone https://github.com/vixkram/flowers.git
