@@ -10,6 +10,8 @@ E-Flower is a delightful website where you can send virtual flowers to your love
 
 https://vixkram.github.io/flowers/
 
+(click on flower to play music)
+
 ## Here is code ❤️
 
 1. Clone the repository:
